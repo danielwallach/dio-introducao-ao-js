@@ -1,0 +1,16 @@
+Baixar o Visual Studio Code para trabalhar os códigos de javascript
+Baixar o node.js para rodar os arquivos .js dentro do console e visualizar no terminal (digite "node + nomedoarquivo.js" no terminal para executar o seu código).
+
+
+--Comandos e declarações básicas no js:
+
+console.log('Hello World!'); = imprime o que você quer na tela
+let variavelQualquer = declara uma variável
+const constanteQualquer = declara uma constante
+// = comenta uma linha
+/* */ = comenta um bloco que esteja estre as barras
+toFixed() = para imprimir um número decimal limitando quantidade de casas decimais que irão ser mostradas na tela 
+(ex.: let nDecimal = 10/3 = 3.33333... 
+      print.log(nDecimal.toFixed(2)
+para imprimir 3.33 limitando a duas casas decimais.
+	
